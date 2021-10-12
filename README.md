@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rohit2000123sahu, Former SDE Intern at UBS India Private Limited
 - 👀 I’m interested in "Competative Coding" and "Learing New Tech Stack".
-- 🌱 I’m currently learning the "Advance Data Structures".
 - 💞️ I’m looking for an 6 Month SDE Intern.
 - 📫 You can reach to me on my mail id rohitjhansistudy@gmail.com.
 - 📌 My Codeforces handle is rohit101020samnit.
